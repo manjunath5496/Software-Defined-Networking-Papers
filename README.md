@@ -67,21 +67,23 @@ Software Defined Wireless Networking</a></li>
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(33).pdf" style="text-decoration:none;">Software Defined Networking Concepts</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(34).pdf" style="text-decoration:none;">Improving Event Detection via Open-domain Trigger Knowledge</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(34).pdf" style="text-decoration:none;">A Taxonomy of Software-Defined Networking (SDN)-Enabled Cloud Computing</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(35).pdf" style="text-decoration:none;">A Two-Step Approach for Implicit Event Argument Detection</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(35).pdf" style="text-decoration:none;">Software-Defined Network Function Virtualization: A Survey</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(36).pdf" style="text-decoration:none;">Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(36).pdf" style="text-decoration:none;">On Scalability of
+Software-Defined Networking</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(37).pdf" style="text-decoration:none;">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(38).pdf" style="text-decoration:none;">Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(39).pdf" style="text-decoration:none;">Global Locality in Biomedical Relation and Event Extraction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(40).pdf" style="text-decoration:none;">Connecting the Dots: Event Graph Schema Induction with Path Language Modeling</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(41).pdf" style="text-decoration:none;">Incremental Event Detection via Knowledge Consolidation Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(42).pdf" style="text-decoration:none;">Semi-supervised New Event Type Induction and Event Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(37).pdf" style="text-decoration:none;">Enhancing Network Security through Software Defined Networking (SDN)</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(38).pdf" style="text-decoration:none;">Structure and
+Interpretation of Computer Programs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(39).pdf" style="text-decoration:none;">Towards Secure and Dependable Software-Defined Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(40).pdf" style="text-decoration:none;">Software-Defined Networking and Network Programmability: Use Cases for Defense and Intelligence Communities</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(41).pdf" style="text-decoration:none;">Software Defined Networking concepts and challenges</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(42).pdf" style="text-decoration:none;">A Survey on the Security of Stateful SDN Data Planes</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(43).pdf" style="text-decoration:none;">Event Extraction as Machine Reading Comprehension</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(44).pdf" style="text-decoration:none;">A Method for Building a Commonsense Inference Dataset based on Basic Events</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(45).pdf" style="text-decoration:none;">Weakly Supervised Subevent Knowledge Acquisition</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(43).pdf" style="text-decoration:none;">Software-Defined Networking Approaches for Link Failure Recovery: A Survey</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(44).pdf" style="text-decoration:none;">The role of Software Defined Networking (SDN) in broadcasting</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Software-Defined-Networking-Papers/blob/master/sdn(45).pdf" style="text-decoration:none;">Implementation of Software-Defined Networks Using Open-Source Environment</a></li>  
    
 </ul>
